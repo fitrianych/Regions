@@ -71,7 +71,7 @@ public class RegionsDAO implements InterfaceDAO {
     public List<Object> search(String category, String search) {
         return fdao.getAll("FROM Regions WHERE " + category + " LIKE '%" + search + "%'");
     }
-
+  
     /**
      * Fungsi untuk menampilkan Region berdasarkan Id
      *
