@@ -258,15 +258,16 @@ public class LathianORM {
          /**
           * insert untuk Regions
           */
-//        regions.setRegionId(BigDecimal.ZERO);
-//        regions.setRegionName("Asia Pasifik");
-//        System.out.println(new CountriesDAO().insert(regions));
+        Regions regions = new Regions();
+        regions.setRegionId(new BigDecimal(5));
+        regions.setRegionName("Asia Pasifik");
+        System.out.println(new CountriesDAO().insert(regions));
 
            /**
             * delete untuk Regions
             */
 //        System.out.println(new RegionsDAO().delete(BigDecimal.ZERO));
-          System.out.println(new RegionsDAO().delete(new BigDecimal(2)));
+          System.out.println(new RegionsDAO().delete(new BigDecimal(5)));
           
 /**
            * delete untuk Locations
