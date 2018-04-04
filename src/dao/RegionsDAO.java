@@ -25,9 +25,11 @@ public class RegionsDAO implements InterfaceDAO {
     private Session session;
     private Transaction transaction;
     public FunctionsDAO fdao;
+   
 
     public RegionsDAO() {
           this.fdao = new FunctionsDAO(HibernateUtil.getSessionFactory());
+     
     }
 
     @Override

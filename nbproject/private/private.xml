@@ -3,8 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/RAditya/Documents/NetBeansProjects/Simpe-Hibernate---Oracle/src/dao/EmployeesDAO.java</file>
-            <file>file:/C:/Users/RAditya/Documents/NetBeansProjects/Simpe-Hibernate---Oracle/src/tools/LathianORM.java</file>
+            <file>file:/E:/TUGAS/4%20April%202017/Adit/Delete-On-FunctionsDAO/src/entities/Regions.java</file>
+            <file>file:/E:/TUGAS/4%20April%202017/Adit/Delete-On-FunctionsDAO/src/model/ModelRegions.java</file>
+            <file>file:/E:/TUGAS/4%20April%202017/Adit/Delete-On-FunctionsDAO/src/controller/RegionsController.java</file>
+            <file>file:/E:/TUGAS/4%20April%202017/Adit/Delete-On-FunctionsDAO/src/dao/RegionsDAO.java</file>
+            <file>file:/E:/TUGAS/4%20April%202017/Adit/Delete-On-FunctionsDAO/src/view/ViewRegion.java</file>
         </group>
     </open-files>
 </project-private>
