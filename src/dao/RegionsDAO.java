@@ -57,7 +57,7 @@ public class RegionsDAO implements InterfaceDAO {
     @Override
     public List<Object> getAll() {
         return fdao.getAll("FROM Regions");
-    }
+    } 
 
     /**
      * Fungsi untuk menampilkan data yang dicari berdasarkan kategori(nama
